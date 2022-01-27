@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header,footer {
+    height: 268.5px;
+    clear: both;
+    border: 3px solid black;
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+.small-section {
+    height: 200px;
+    width: 33.33%;
+    float: left;
+    border: 3px solid black;
+}
+.large-section {
+    height: 200px;
+    width: 50%;
+    float: left;
+    border: 3px solid black;
+}
+section,footer {
+    text-align: center;
+    font-size: 25px;
+}
